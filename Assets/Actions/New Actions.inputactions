@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "New Actions",
+    "maps": [
+        {
+            "name": "XRI",
+            "id": "d25f6a5c-25a1-46a5-8c18-5dadad74fddc",
+            "actions": [
+                {
+                    "name": "Press",
+                    "type": "Button",
+                    "id": "852796d2-e3f8-4667-9c68-f1e8cfcb4f82",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "08696035-c5db-4fa7-97df-085ae2d21d35",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Press",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
