@@ -10,20 +10,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
-  m_Name: ReferenceImageLibraryOverlayImage
+  m_Name: ReferenceImageLibrary
   m_EditorClassIdentifier: 
-  m_GuidLow: 4969809054107129598
-  m_GuidHigh: 10814643514368974011
+  m_GuidLow: 4666877004974032934
+  m_GuidHigh: 13793166121441572507
   m_DataStore:
     m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5514685584913614695
-      m_GuidHigh: 16748073903182428312
+      m_GuidLow: 4649736400999372210
+      m_GuidHigh: 15503064776449829822
     m_SerializedTextureGuid:
-      m_GuidLow: 14867770858470774103
-      m_GuidHigh: 842640837159524283
+      m_GuidLow: 16335689926093595773
+      m_GuidHigh: 3508898155430324043
     m_Size: {x: 0.15, y: 0.15}
     m_SpecifySize: 1
-    m_Name: ClancyAlbum
-    m_Texture: {fileID: 2800000, guid: ad0e1557eed2ce54bb97217c60a9b10b, type: 3}
+    m_Name: qr-code-7
+    m_Texture: {fileID: 2800000, guid: 05bc647d0770e2b44ba7720b481cb230, type: 3}
