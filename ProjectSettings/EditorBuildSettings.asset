@@ -17,9 +17,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Workshop/ImageTextureOverlay.unity
     guid: abfaca74b53ff3342a0f655c65b8fc4a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Workshop/SimpleImageInteraction.unity
     guid: bdb6f05d7779be24c958a44943a0ebf8
+  - enabled: 1
+    path: Assets/Scenes/Workshop/ChristmasScene.unity
+    guid: e14bc463e2099f64f862bd2e3c3ea022
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 0465d33c6aee55f44b0237db8b0e0259, type: 2}
