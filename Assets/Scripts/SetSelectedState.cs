@@ -14,11 +14,6 @@ private Material originalMaterial;
     }
     public void SetUnSelected()
     {
-        gameObject.GetComponent<MeshRenderer>().material = SelectedMaterial;
-    }
-
-    void Update()
-    {
-        
+        gameObject.GetComponent<MeshRenderer>().material = originalMaterial;
     }
 }
