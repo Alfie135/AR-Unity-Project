@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "ARActions",
+    "maps": [
+        {
+            "name": "XRI",
+            "id": "1b4bb24a-c80a-4cd4-9693-475cb875dd13",
+            "actions": [
+                {
+                    "name": "Press",
+                    "type": "Button",
+                    "id": "4ac91dd9-ad3a-4660-aaac-29f69d516343",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "45e63f5b-087e-4573-a94f-e94beca0bf7d",
+                    "path": "<Touchscreen>/primaryTouch/tap",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Press",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
